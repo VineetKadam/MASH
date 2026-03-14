@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+
+# Environment files
+.env
+
+# Vector databases
+vector_db/
+
+# Data files (optional if large)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
