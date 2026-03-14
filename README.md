@@ -13,7 +13,7 @@ MASH AI is a multi-agent AI system that assists doctors in diagnosing medical co
 
 ## Architecture
 
-Doctor → React UI → FastAPI → Orchestrator → Specialist Agents → Vector DB → Gemini LLM
+Doctor → React UI → FastAPI → Orchestrator(Gemini LLM) → Specialist Agents → Domain Specific Knowledge Base → Vector DB → 
 
 
 ##DEMO
